@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/pecodeTestTask/static/css/main.5d72f2ec.css",
-    "main.js": "/pecodeTestTask/static/js/main.a76d9a2a.js",
+    "main.js": "/pecodeTestTask/static/js/main.993471f4.js",
     "static/js/787.28cb0dcd.chunk.js": "/pecodeTestTask/static/js/787.28cb0dcd.chunk.js",
     "index.html": "/pecodeTestTask/index.html",
     "main.5d72f2ec.css.map": "/pecodeTestTask/static/css/main.5d72f2ec.css.map",
-    "main.a76d9a2a.js.map": "/pecodeTestTask/static/js/main.a76d9a2a.js.map",
+    "main.993471f4.js.map": "/pecodeTestTask/static/js/main.993471f4.js.map",
     "787.28cb0dcd.chunk.js.map": "/pecodeTestTask/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5d72f2ec.css",
-    "static/js/main.a76d9a2a.js"
+    "static/js/main.993471f4.js"
   ]
 }
