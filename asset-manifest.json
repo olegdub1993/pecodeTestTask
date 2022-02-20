@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/picodeTestTask/static/css/main.5d72f2ec.css",
+    "main.js": "/picodeTestTask/static/js/main.01ffb2c3.js",
+    "static/js/787.28cb0dcd.chunk.js": "/picodeTestTask/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/picodeTestTask/index.html",
+    "main.5d72f2ec.css.map": "/picodeTestTask/static/css/main.5d72f2ec.css.map",
+    "main.01ffb2c3.js.map": "/picodeTestTask/static/js/main.01ffb2c3.js.map",
+    "787.28cb0dcd.chunk.js.map": "/picodeTestTask/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d72f2ec.css",
+    "static/js/main.01ffb2c3.js"
+  ]
+}
