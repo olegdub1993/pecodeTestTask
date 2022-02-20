@@ -1,0 +1,13 @@
+
+  .input {
+    font-family: inherit;
+    outline: none;
+    border: none;
+    padding: 5px 0;
+    background-color: transparent;
+    border-bottom: 2px solid black;
+    font-size: 20px;
+    &::placeholder{
+         color: rgba($color: #000000, $alpha: 0.5);
+    }
+  }

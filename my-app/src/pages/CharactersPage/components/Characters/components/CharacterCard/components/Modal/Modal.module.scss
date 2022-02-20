@@ -1,0 +1,33 @@
+
+.content{
+    position: relative;
+    padding: 50px;  
+    display: flex; 
+}
+  .close{
+    position: absolute;
+    cursor: pointer;
+    top:20px;
+    left: auto;
+    right: 30px;
+}
+.image{
+    margin: 0 auto;
+    display: block;
+    height: auto;
+    max-width: 100%;
+    margin-right: 50px;
+}
+.name{
+    text-align: center;
+    font-weight: 700;
+    margin-bottom: 35px;
+    font-size: 30px;
+}
+.properties{
+    font-weight: 500;
+    font-size: 20px;
+    div{
+        margin-bottom: 10px;
+    }
+}
